@@ -1,1 +1,5 @@
-[![cd](https://github.com/XeniaP/GithubActionsEKS/actions/workflows/eks_github.yml/badge.svg?branch=main)](https://github.com/XeniaP/GithubActionsEKS/actions/workflows/eks_github.yml)
+# aws-kubernetes-github-actions
+
+Creation of a **website**, hosted on a **Kubernetes cluster**. Use **Kubectl**, **Kustomize** and **Github actions** to deploy it in a **GitOps** way. 
+
+![architecture.svg](architecture.svg)
